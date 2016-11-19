@@ -1,7 +1,7 @@
 {
   "name": "react-redux-steps",
   "version": "0.1.0",
-  "description": "manage multiple step by step bahaviors in your react-redux application",
+  "description": "Manage multiple steps group, allowing you to do step by step behaviors in your react/redux application",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel src --out-dir dist --ignore '*.spec.js'",
